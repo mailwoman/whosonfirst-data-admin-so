@@ -82,7 +82,6 @@
         "state_id":2347008
     },
     "wof:belongsto":[
-        85632539,
         85677235,
         85632379
     ],
@@ -99,13 +98,11 @@
     "wof:hierarchy":[
         {
             "campus_id":102555563,
-            "country_id":85632539,
             "region_id":85677235
         },
         {
             "campus_id":102555563,
-            "country_id":85632379,
-            "region_id":85632539
+            "country_id":85632379
         }
     ],
     "wof:id":102555563,
